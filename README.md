@@ -1,4 +1,4 @@
-# Quiz Game
+# Programming-Based Quiz Game
 
 A simple and interactive quiz game built with **React.js and Vite** that asks programming-related questions to test and improve coding knowledge. The game presents multiple-choice questions, tracks user answers, and provides instant feedback through a fast and responsive interface.
 
